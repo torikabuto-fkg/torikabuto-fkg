@@ -1,41 +1,39 @@
 ## Hi there 👋
 
 <!-- noteやってます -->
-<a href="https://note.com/torikabuto_fkg">
-  <img
-    alt="note articles"
-    height="20"
-    src="https://badgen.org/badge/note/Visit/blueviolet?style=plastic" />
-</a>
+<div align="center">
+  <a href="https://note.com/torikabuto_fkg">
+    <img
+      alt="note articles"
+      height="20"
+      src="https://badgen.org/badge/note/Visit/blueviolet?style=plastic" />
+  </a>
 </div>
-
 
 <!-- GitHubの統計情報：プロフィール詳細、言語別、コミット言語、統計、生産的時間（Profile Summary Cardsの生成が必要） -->
 <div align="center">
-<img alt="profile details" src="https://raw.githubusercontent.com/torikabuto_fkg/torikabuto_fkg/main/profile-summary-card-output/aura/0-profile-details.svg" />
-<img alt="repos per language" src="https://raw.githubusercontent.com/torikabuto_fkg/torikabuto_fkg/main/profile-summary-card-output/aura/1-repos-per-language.svg" />
-<img alt="most commit language" src="https://raw.githubusercontent.com/torikabuto_fkg/torikabuto_fkg/main/profile-summary-card-output/aura/2-most-commit-language.svg" />
-<img alt="stats" src="https://raw.githubusercontent.com/torikabuto_fkg/torikabuto_fkg/main/profile-summary-card-output/aura/3-stats.svg" />
-<img alt="productive time" src="https://raw.githubusercontent.com/torikabuto_fkg/torikabuto_fkg/main/profile-summary-card-output/aura/4-productive-time.svg" />
+  <img alt="profile details" src="https://raw.githubusercontent.com/torikabuto_fkg/torikabuto_fkg/main/profile-summary-card-output/aura/0-profile-details.svg" />
+  <img alt="repos per language" src="https://raw.githubusercontent.com/torikabuto_fkg/torikabuto_fkg/main/profile-summary-card-output/aura/1-repos-per-language.svg" />
+  <img alt="most commit language" src="https://raw.githubusercontent.com/torikabuto_fkg/torikabuto_fkg/main/profile-summary-card-output/aura/2-most-commit-language.svg" />
+  <img alt="stats" src="https://raw.githubusercontent.com/torikabuto_fkg/torikabuto_fkg/main/profile-summary-card-output/aura/3-stats.svg" />
+  <img alt="productive time" src="https://raw.githubusercontent.com/torikabuto_fkg/torikabuto_fkg/main/profile-summary-card-output/aura/4-productive-time.svg" />
 </div>
-
 
 <!-- GitHubの連続コミット記録：ストリーク統計 -->
 <div align="center">
-<img alt="streak stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=torikabuto_fkg&theme=aura&hide_border=true&background=0D1117&stroke=blueviolet" />
+  <img alt="streak stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=torikabuto_fkg&theme=aura&hide_border=true&background=0D1117&stroke=blueviolet" />
 </div>
-
 
 <!-- GitHubのトロフィー -->
 <div align="center">
-<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=torikabuto_fkg&theme=onedark&row=1&column=5&no-frame=true&no-bg=true&margin-w=4&margin-h=4&include_all_commits=true&count_private=true&title=Commits,PullRequest,Issues,Repositories,Experience&rank=SSS,SS,S,AAA,AA,A,B" />
+  <img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=torikabuto_fkg&theme=onedark&row=1&column=5&no-frame=true&no-bg=true&margin-w=4&margin-h=4&include_all_commits=true&count_private=true&title=Commits,PullRequest,Issues,Repositories,Experience&rank=SSS,SS,S,AAA,AA,A,B" />
 </div>
-
 
 <!-- コントリビューショングラフ：スネークアニメーション（Snakeの生成が必要） -->
 <div align="center">
-<img alt="contribution snake" src="https://raw.githubusercontent.com/torikabuto_fkg/torikabuto_fkg/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/torikabuto_fkg/torikabuto_fkg/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 
 <!-- 技術スタック：使用している言語、フレームワーク、ツール -->
