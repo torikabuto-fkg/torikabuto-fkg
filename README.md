@@ -10,37 +10,6 @@
   </a>
 </p>
 
-<!-- GitHubの統計情報：動的APIで即表示 -->
-<p align="center">
-  <img alt="profile details"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torikabuto_fkg&theme=aura" />
-  <img alt="repos per language"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torikabuto_fkg&theme=aura" />
-  <img alt="most commit language"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torikabuto_fkg&theme=aura" />
-  <img alt="stats"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=torikabuto_fkg&theme=aura" />
-  <img alt="productive time (JST)"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torikabuto_fkg&theme=aura&utcOffset=9" />
-</p>
-
-<!-- GitHubの連続コミット記録：安定ドメイン -->
-<p align="center">
-  <img alt="streak stats"
-       src="https://streak-stats.demolab.com?user=torikabuto_fkg&theme=aura&hide_border=true&background=0D1117&stroke=blueviolet" />
-</p>
-
-<!-- GitHubのトロフィー -->
-<p align="center">
-  <img alt="profile trophy"
-       src="https://github-profile-trophy.vercel.app/?username=torikabuto_fkg&theme=onedark&row=1&column=5&no-frame=true&no-bg=true&margin-w=4&margin-h=4&title=Commits,PullRequest,Issues,Repositories,Experience" />
-</p>
-
-<!-- コントリビューショングラフ：代替（Snakeの代わりに即表示） -->
-<p align="center">
-  <img alt="activity graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=torikabuto_fkg&theme=github-compact&custom_title=Contribution%20Graph&hide_border=true" />
-</p>
 
 
 
